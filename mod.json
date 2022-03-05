@@ -4,5 +4,6 @@
     "author": "Your mother",
     "description":"WHY ARE YOU USING THIS MOD?",
     "minGameVersion": "134.1",
-    "version": "segs"
+    "version": "segs",
+    "hideBrowser": true
 }
